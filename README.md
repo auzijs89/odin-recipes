@@ -1,1 +1,1 @@
-# odin-recipes
+a very simple html page describin a couple of recipes.
