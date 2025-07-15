@@ -1,0 +1,27 @@
+
+
+h1,h2,p {
+    text-align: center;
+}
+
+ul a {
+    font-size: 25px;
+}
+ul, ol {
+    border: 1px solid black;
+    padding: 10px;
+    list-style-position: inside;
+    text-align: center;
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+}
+
+.nav-link {
+    display: block;
+    margin: 0 auto;
+    width: fit-content;
+    font-size: 30px
+}
